@@ -1,0 +1,8 @@
+{
+  "name": "Remix: نظام محاسبة محل الذهب",
+  "description": "نظام محاسبي متكامل لإدارة معاملات محل الذهب اليومية من شراء وبيع ومصروفات وحساب العيار المعادل تلقائيًا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
